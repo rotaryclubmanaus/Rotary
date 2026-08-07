@@ -1,0 +1,7 @@
+name = "rotary"
+compatibility_date = "2026-08-07"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "rotaryclub"
+database_id = "4553ddcf-6b7f-4d93-9880-d1d17b194f87"
